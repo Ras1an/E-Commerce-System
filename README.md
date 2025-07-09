@@ -33,7 +33,7 @@ A simple C# based e-commerce system that simulates real-world product management
   - ❌ Product is out of stock or expired
 
 ### Program Flow
-  - **start**
+  - **Start**
     
     ![image alt](https://github.com/Ras1an/E-Commerce-System/blob/master/Screenshot%202025-07-09%20024705.png)
   - **Check User Cart**
@@ -65,5 +65,6 @@ A simple C# based e-commerce system that simulates real-world product management
       
     ![image alt](https://github.com/Ras1an/E-Commerce-System/blob/master/Screenshot%202025-07-09%20025400.png)
   - **We Can Not Adding Product More Than It's Available Quantity Although We Have Enough Money**
-  
+    - **Trying to buy 30 items of butter**
+      
     ![image alt](https://github.com/Ras1an/E-Commerce-System/blob/master/Screenshot%202025-07-09%20025445.png)
